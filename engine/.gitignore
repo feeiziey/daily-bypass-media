@@ -1,0 +1,4 @@
+models
+player/tex/
+episodes/*/build/
+__pycache__/

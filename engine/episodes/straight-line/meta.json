@@ -1,0 +1,79 @@
+{
+  "slug": "straight-line",
+  "title": "The Straight Line",
+  "voice": "am_michael",
+  "speed": 1.0,
+  "musicSeed": 1,
+  "musicKey": 57,
+  "hot": [
+    "32,000",
+    "32,090",
+    "80%",
+    "2012",
+    "2018",
+    "11,000",
+    "never",
+    "Russia",
+    "third",
+    "Ocean"
+  ],
+  "details": [
+    {
+      "file": "d_pakistan.jpg",
+      "bbox": [
+        55,
+        15,
+        80,
+        32
+      ]
+    },
+    {
+      "file": "d_kamchatka.jpg",
+      "bbox": [
+        150,
+        50,
+        175,
+        64
+      ]
+    }
+  ],
+  "script": [
+    {
+      "text": "You can sail [32,000|thirty-two thousand] kilometers in a straight line, and never touch land.",
+      "pause": 0.5
+    },
+    "It starts here, on a beach in Pakistan.",
+    {
+      "text": "Point a ship south-west, and never turn the wheel.",
+      "pause": 0.35
+    },
+    "You slip between Africa and Madagascar.",
+    "You pass under the tip of Africa, cross the South Atlantic, and thread the gap between Antarctica and South America.",
+    "Then the whole Pacific. North, for weeks.",
+    {
+      "text": "The first land you hit is Russia.",
+      "pause": 0.5
+    },
+    {
+      "text": "Total distance: [32,090|thirty-two thousand and ninety] kilometers.",
+      "pause": 0.4
+    },
+    "That's about [80%|eighty percent] of the way around Earth.",
+    "In [2012|twenty twelve], someone on Reddit posted this route.",
+    {
+      "text": "In [2018|twenty eighteen], two researchers built an algorithm to check it. It held.",
+      "pause": 0.45
+    },
+    "The longest straight line on land? Portugal to China. About [11,000|eleven thousand] kilometers.",
+    {
+      "text": "Barely a third.",
+      "pause": 0.5
+    },
+    "We call it planet Earth. From out here, it looks more like planet Ocean."
+  ],
+  "sources": [
+    "https://arxiv.org/abs/1804.07389",
+    "https://www.technologyreview.com/2018/04/30/143150/computer-scientists-have-found-the-longest-straight-line-you-could-sail-without-hitting/"
+  ],
+  "tail": 4.6
+}
