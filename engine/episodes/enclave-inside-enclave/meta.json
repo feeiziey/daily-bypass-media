@@ -1,0 +1,78 @@
+{
+  "slug": "enclave-inside-enclave",
+  "title": "The Field Inside Four Borders",
+  "voice": "am_michael",
+  "speed": 1.0,
+  "tail": 4.6,
+  "musicSeed": 1,
+  "musicKey": 59,
+  "hires": true,
+  "hot": [
+    "India",
+    "Bangladesh",
+    "only",
+    "200",
+    "50,000",
+    "1974",
+    "41",
+    "162",
+    "2015",
+    "nothing"
+  ],
+  "details": [
+    {
+      "file": "d_bengal.jpg",
+      "bbox": [
+        86.5,
+        24.5,
+        91.0,
+        27.5
+      ]
+    }
+  ],
+  "script": [
+    {
+      "text": "This field was India, inside Bangladesh, inside India, inside Bangladesh.",
+      "pause": 0.5
+    },
+    {
+      "text": "It sat here, in the far north of Bangladesh.",
+      "pause": 0.2
+    },
+    "Start with Bangladesh.",
+    "Inside it, a pocket of India.",
+    "Inside that, a pocket of Bangladesh.",
+    {
+      "text": "And inside that, one last scrap of India: Dahala Khagrabari.",
+      "pause": 0.35
+    },
+    {
+      "text": "The only third-order enclave in the world.",
+      "pause": 0.3
+    },
+    "It was a single jute field, owned by a farmer from the Bangladeshi pocket around it.",
+    "And it wasn't alone. Nearly [200|two hundred] pockets of one country sat stranded inside the other.",
+    {
+      "text": "More than [50,000|fifty thousand] people lived in them.",
+      "pause": 0.3
+    },
+    {
+      "text": "In [1974|nineteen seventy-four], the two countries agreed to swap them. It took [41|forty-one] more years.",
+      "pause": 0.35
+    },
+    {
+      "text": "At midnight on the last day of July [2015|twenty fifteen], [162|a hundred and sixty-two] enclaves changed hands at once.",
+      "pause": 0.45
+    },
+    "The Indian field became plain Bangladesh.",
+    "Today, it's just a field again. Inside nothing at all."
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Dahala_Khagrabari",
+    "https://en.wikipedia.org/wiki/India%E2%80%93Bangladesh_enclaves",
+    "https://www.smithsonianmag.com/smart-news/was-turducken-border-disputes-180956161/",
+    "https://mea.gov.in/press-releases.htm?dtl/25565/Exchange+of+enclaves+between+India+and+Bangladesh",
+    "https://www.loc.gov/item/global-legal-monitor/2015-08-11/bangladesh-india-decades-long-border-dispute-resolved-through-implementation-of-land-swap-agreement/",
+    "https://bigthink.com/strange-maps/110-cooch-behar-the-mother-of-all-enclave-complexes/"
+  ]
+}

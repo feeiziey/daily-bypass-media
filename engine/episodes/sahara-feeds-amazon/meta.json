@@ -1,0 +1,35 @@
+{
+  "slug": "sahara-feeds-amazon",
+  "title": "The Desert That Feeds a Jungle",
+  "voice": "am_michael",
+  "speed": 1.0,
+  "tail": 4.6,
+  "musicSeed": 2,
+  "musicKey": 52,
+  "hot": ["Sahara", "Desert", "dust", "182", "132", "27.7", "22,000", "phosphorus", "Amazon", "rainforest"],
+  "details": [{"file": "d_bodele.jpg", "bbox": [12, 13, 24, 21]}],
+  "script": [
+    {"text": "The Amazon rainforest is fertilized by the Sahara Desert.", "pause": 0.5},
+    {"text": "The fertilizer is dust.", "pause": 0.3},
+    "Some of it starts here: the [Bodélé|Bo-deh-lay] Depression in Chad, the dustiest place on Earth.",
+    "Around [7,000|seven thousand] years ago, this was a lake bigger than Germany.",
+    {"text": "When it dried, it left a floor of fossil algae, rich in phosphorus.", "pause": 0.3},
+    "Winds lift it into the sky, and carry it west across the Atlantic.",
+    "On average, [182|one hundred and eighty-two] million tons of dust leave the Sahara every year.",
+    "[132|One hundred and thirty-two] million are still in the air off South America.",
+    {"text": "And [27.7|twenty-seven point seven] million tons fall on the Amazon.", "pause": 0.45},
+    "Hidden inside: about [22,000|twenty-two thousand] tons of phosphorus.",
+    {"text": "Roughly what the rainforest loses every year, washed away by rain and floods.", "pause": 0.5},
+    "The jungle's soil is poor. The desert tops it up.",
+    "The largest hot desert on Earth, feeding the largest rainforest."
+  ],
+  "sources": [
+    "https://www.nasa.gov/centers-and-facilities/goddard/nasa-satellite-reveals-how-much-saharan-dust-feeds-amazons-plants/",
+    "https://svs.gsfc.nasa.gov/4273/",
+    "https://www.eurekalert.org/news-releases/861866",
+    "https://doi.org/10.1002/2015GL063040",
+    "https://www.pnas.org/doi/10.1073/pnas.1417655112",
+    "https://www.sciencedirect.com/science/article/abs/pii/S0169555X08002742",
+    "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2020GL088020"
+  ]
+}

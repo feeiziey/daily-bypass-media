@@ -1,0 +1,41 @@
+{
+  "slug": "dig-through-earth",
+  "title": "Dig Through Earth",
+  "voice": "am_michael",
+  "speed": 1.0,
+  "tail": 4.6,
+  "musicSeed": 0,
+  "musicKey": 52,
+  "hot": ["China", "12,700", "ocean", "15%", "Argentina", "won't", "48"],
+  "details": [],
+  "script": [
+    {"text": "Dig straight down from America, and you won't reach China.", "pause": 0.5},
+    "Start here, in Kansas.",
+    "Now drill through the center of the Earth.",
+    {"text": "That's a tunnel about [12,700|twelve thousand seven hundred] kilometers long.", "pause": 0.3},
+    {"text": "You come out here. The southern Indian Ocean.", "pause": 0.4},
+    "Flip all [48|forty-eight] lower states to the other side of the planet.",
+    "Almost all of it lands in the ocean.",
+    {"text": "The only land underneath? A few tiny French islands.", "pause": 0.45},
+    "China's real opposite is South America.",
+    "Hong Kong sits almost exactly opposite La Quiaca, a small town in Argentina.",
+    "Spain's other side is New Zealand.",
+    "Hawaii's is Botswana.",
+    {"text": "And Bermuda's is Perth, in Australia.", "pause": 0.45},
+    {"text": "In fact, only about [15%|fifteen percent] of the world's land has land on the other side.", "pause": 0.35},
+    {"text": "The rest comes out in the ocean.", "pause": 0.5},
+    "So if you really want to dig to China,",
+    "start in Argentina."
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Antipodes",
+    "https://en.wikipedia.org/wiki/Antipodes_on_Earth",
+    "https://www.antipodesmap.com/",
+    "https://brilliantmaps.com/antipodes/",
+    "https://en.wikipedia.org/wiki/La_Quiaca",
+    "https://antipode-finder.com/antipode-of-usa/",
+    "https://www.lovebigisland.com/quick-and-remarkable-facts-about-hawaii/antipodes/",
+    "https://www.geodatos.net/en/antipodes/australia/perth",
+    "https://en.wikipedia.org/wiki/Earth_radius"
+  ]
+}

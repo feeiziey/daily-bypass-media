@@ -1,0 +1,38 @@
+{
+  "slug": "mediterranean-vanished",
+  "title": "The Sea That Vanished",
+  "voice": "am_michael",
+  "speed": 1.0,
+  "tail": 4.6,
+  "musicSeed": 0,
+  "musicKey": 55,
+  "hot": ["disappeared", "70%", "3", "salt", "5.33", "100", "500", "10", "90%", "14", "Atlantic"],
+  "details": [{"file": "d_gibraltar.jpg", "bbox": [-9, 33.5, -1, 38.5]}],
+  "script": [
+    {"text": "About [6|six] million years ago, the Mediterranean Sea almost disappeared.", "pause": 0.5},
+    "Its gateways to the Atlantic, in what is now Spain and Morocco, closed.",
+    {"text": "Rivers couldn't keep up with the sun.", "pause": 0.3},
+    "The sea may have lost [70%|seventy percent] of its water.",
+    {"text": "What remained were shrinking, salty lakes, like giant Dead Seas.", "pause": 0.3},
+    "Salt piled up on the seabed, in places up to [3|three] kilometers thick.",
+    {"text": "It's still down there.", "pause": 0.5},
+    "Then, [5.33|five point three three] million years ago, the Atlantic broke back in at Gibraltar.",
+    "One model says the flood peaked at about [100|one hundred] million cubic meters per second.",
+    {"text": "Roughly [500|five hundred] Amazon Rivers at once.", "pause": 0.4},
+    "Sea level may have risen more than [10|ten] meters a day.",
+    {"text": "Up to [90%|ninety percent] of the sea, refilled in under two years.", "pause": 0.5},
+    "Today, a gap just [14|fourteen] kilometers wide is all that keeps it full."
+  ],
+  "sources": [
+    "https://www.nature.com/articles/nature08555",
+    "https://pubmed.ncbi.nlm.nih.gov/20010684/",
+    "https://en.wikipedia.org/wiki/Zanclean_flood",
+    "https://en.wikipedia.org/wiki/Messinian_salinity_crisis",
+    "https://www.nature.com/articles/s41467-024-53781-6",
+    "https://www.cnrs.fr/en/press/how-70-mediterranean-sea-was-lost-55-million-years-ago",
+    "https://www.sciencedirect.com/science/article/abs/pii/S0921818119305375",
+    "https://www.nationalgeographic.com/science/article/mediterranean-nearly-dried-up-cataclysmic-flood-revived-it",
+    "https://en.wikipedia.org/wiki/Strait_of_Gibraltar",
+    "https://en.wikipedia.org/wiki/Amazon_River"
+  ]
+}

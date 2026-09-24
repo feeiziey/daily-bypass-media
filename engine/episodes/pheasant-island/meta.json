@@ -1,0 +1,76 @@
+{
+  "slug": "pheasant-island",
+  "title": "The Island That Takes Turns",
+  "voice": "am_michael",
+  "speed": 1.0,
+  "tail": 4.6,
+  "musicSeed": 0,
+  "musicKey": 52,
+  "hires": true,
+  "hot": [
+    "six",
+    "1659",
+    "1856",
+    "Spain",
+    "France",
+    "6,820",
+    "smallest",
+    "again"
+  ],
+  "details": [
+    {
+      "file": "d_biscay.jpg",
+      "bbox": [
+        -4.5,
+        41.8,
+        0.5,
+        44.8
+      ]
+    }
+  ],
+  "script": [
+    {
+      "text": "Every six months, this island changes countries.",
+      "pause": 0.5
+    },
+    "It sits in the Bidasoa river, right on the border between France and Spain.",
+    {
+      "text": "In [1659|sixteen fifty-nine], the two kingdoms signed a peace treaty here.",
+      "pause": 0.3
+    },
+    "A year later, a Spanish princess crossed it to marry [Louis XIV|Louis the Fourteenth].",
+    "The treaty made it shared land, owned by both.",
+    {
+      "text": "And since [1856|eighteen fifty-six], they take turns running it.",
+      "pause": 0.3
+    },
+    "Spain, from February to July.",
+    {
+      "text": "France, from August to January.",
+      "pause": 0.3
+    },
+    "At each handover, naval officers from both sides meet to swap the paperwork.",
+    {
+      "text": "The rest of the time, it's closed. Nobody lives there.",
+      "pause": 0.45
+    },
+    {
+      "text": "Its total area? Just [6,820|six thousand, eight hundred and twenty] square meters.",
+      "pause": 0.35
+    },
+    "Smaller than a football pitch.",
+    {
+      "text": "The smallest piece of land on Earth shared by two countries.",
+      "pause": 0.5
+    },
+    "Wait six months, and it changes hands again."
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Pheasant_Island",
+    "https://en.wikipedia.org/wiki/Treaty_of_the_Pyrenees",
+    "https://en.wikipedia.org/wiki/Meeting_on_the_Isle_of_Pheasants",
+    "https://www.euronews.com/2024/07/30/spanish-or-french-pheasant-island-is-about-to-swap-nationalities-again",
+    "https://www.publicsenat.fr/actualites/politique/l-ile-des-faisans-a-la-frontiere-franco-espagnole-le-plus-petit-condominium-au",
+    "https://www.britannica.com/event/Peace-of-the-Pyrenees"
+  ]
+}

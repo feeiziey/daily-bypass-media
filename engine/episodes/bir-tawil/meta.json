@@ -1,0 +1,76 @@
+{
+  "slug": "bir-tawil",
+  "title": "The Land Nobody Wants",
+  "voice": "am_michael",
+  "speed": 1.0,
+  "tail": 4.6,
+  "musicSeed": 2,
+  "musicKey": 50,
+  "hot": [
+    "no",
+    "1899",
+    "1902",
+    "Halaib",
+    "catch",
+    "ten",
+    "2,060",
+    "20,580",
+    "yours",
+    "other"
+  ],
+  "details": [
+    {
+      "file": "d_nubia.jpg",
+      "bbox": [
+        30.0,
+        20.0,
+        38.5,
+        24.5
+      ]
+    }
+  ],
+  "script": [
+    {
+      "text": "This desert is the size of Mauritius, and no country on Earth wants it.",
+      "pause": 0.5
+    },
+    "It's called Bir Tawil, between Egypt and Sudan.",
+    {
+      "text": "In [1899|eighteen ninety-nine], the border here was a straight line: the [22nd|twenty-second] parallel.",
+      "pause": 0.3
+    },
+    "In [1902|nineteen-oh-two], Britain drew a second line, based on how local tribes used the land.",
+    {
+      "text": "It dipped south around Bir Tawil, and bulged north along the coast.",
+      "pause": 0.3
+    },
+    "Egypt claims the first line. That gives it this coastal triangle: Halaib.",
+    {
+      "text": "Sudan claims the second. That gives Halaib to Sudan.",
+      "pause": 0.4
+    },
+    {
+      "text": "Here's the catch.",
+      "pause": 0.25
+    },
+    "Egypt's line puts Bir Tawil in Sudan. Sudan's line puts it in Egypt.",
+    {
+      "text": "Claim Bir Tawil, and you accept the other line. You lose Halaib.",
+      "pause": 0.45
+    },
+    "Bir Tawil is about [2,060|two thousand and sixty] square kilometers of rock and sand.",
+    {
+      "text": "Halaib is [ten|ten] times bigger, with a Red Sea coast.",
+      "pause": 0.5
+    },
+    "So Egypt and Sudan agree on just one thing: Bir Tawil belongs to the other one."
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Bir_Tawil",
+    "https://en.wikipedia.org/wiki/Halaib_Triangle",
+    "https://en.wikipedia.org/wiki/Egypt%E2%80%93Sudan_border",
+    "https://bigthink.com/strange-maps/396-you-take-it-no-you-take-it-the-bir-tawil-trapezoid/",
+    "https://github.com/nvkelso/natural-earth-vector/blob/master/geojson/ne_10m_admin_0_disputed_areas.geojson",
+    "https://data.worldbank.org/indicator/AG.SRF.TOTL.K2?locations=MU"
+  ]
+}

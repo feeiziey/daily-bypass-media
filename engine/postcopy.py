@@ -9,7 +9,8 @@ def spoken_to_display(s):
     return re.sub(r'\[([^\]|]+)\|[^\]]+\]', r'\1', s)
 
 
-for ep in sys.argv[1:] or sorted(glob.glob('episodes/*/')):
+ARGS = [a for a in sys.argv[1:] if not a.startswith('--')]
+for ep in ARGS or sorted(glob.glob('episodes/*/')):
     meta = json.load(open(os.path.join(ep, 'meta.json')))
     out = os.path.join(ep, 'post.md')
     if os.path.exists(out) and '--force' not in sys.argv:
