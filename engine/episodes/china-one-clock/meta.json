@@ -1,0 +1,37 @@
+{
+  "slug": "china-one-clock",
+  "title": "One Clock",
+  "voice": "am_michael",
+  "speed": 1.0,
+  "tail": 4.6,
+  "musicSeed": 2,
+  "musicKey": 50,
+  "hot": ["one", "five", "60", "UTC+8", "1949", "3pm", "10am", "10pm", "3 hours", "3½", "Earth"],
+  "textures": {"night": "tex/night_8k.jpg"},
+  "details": [{"file": "d_xinjiang.jpg", "bbox": [64, 30, 86, 44]}],
+  "script": [
+    {"text": "China is about five time zones wide. It runs on one clock.", "pause": 0.4},
+    "From the Pamir Mountains to the Amur River, it spans over [60|sixty] degrees of longitude.",
+    "The sun needs about four hours to cross it.",
+    {"text": "But every clock reads Beijing Time. [UTC+8|U T C plus eight].", "pause": 0.3},
+    "Until [1949|nineteen forty-nine], China had five time zones. Then the new government made it one.",
+    "Now watch the sun move. The clocks don't care.",
+    "Out west in Kashgar, solar noon arrives around [3 PM|three P M].",
+    "In winter, sunrise comes around [10 AM|ten A M].",
+    "In summer, sunset is after [10 PM|ten P M].",
+    {"text": "Kashgar's clock runs about [3 hours|three hours] ahead of its sun.", "pause": 0.4},
+    "So many [Uyghurs|Wee-gurs] keep their own, unofficial clock. Xinjiang Time. Two hours behind Beijing.",
+    "And at the Afghan border, in the Wakhan Corridor, the clock jumps [3½|three and a half] hours.",
+    {"text": "The biggest clock jump across any land border on Earth.", "pause": 0.4},
+    "One country. One clock. And the sun still keeps five."
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Time_in_China",
+    "https://en.wikipedia.org/wiki/Historical_time_zones_of_China",
+    "https://en.wikipedia.org/wiki/Xinjiang_Time",
+    "https://en.wikipedia.org/wiki/Afghanistan%E2%80%93China_border",
+    "https://en.wikipedia.org/wiki/List_of_extreme_points_of_China",
+    "https://www.timeanddate.com/sun/china/kashgar",
+    "Kashgar sun times: own NOAA-style calculation at 39.47N 75.99E (Dec 1 sunrise 09:57, Jan 5 10:16, solar noon 14:45-15:01, Jun 21 sunset 22:26, all Beijing Time)"
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "slug": "europe-is-north",
+  "title": "Europe Is North",
+  "voice": "am_michael",
+  "speed": 1.0,
+  "tail": 4.6,
+  "musicSeed": 1,
+  "musicKey": 50,
+  "hot": [
+    "north",
+    "40.7",
+    "42",
+    "Madrid",
+    "Rome",
+    "1",
+    "8",
+    "wind",
+    "downwind",
+    "south"
+  ],
+  "details": [
+    {
+      "file": "d_erie.jpg",
+      "bbox": [
+        -86,
+        39.5,
+        -78,
+        44.5
+      ]
+    }
+  ],
+  "script": [
+    {
+      "text": "Rome is farther north than New York.",
+      "pause": 0.5
+    },
+    "New York sits at [40.7|forty point seven] degrees north.",
+    {
+      "text": "Rome, at almost [42|forty-two].",
+      "pause": 0.35
+    },
+    "Follow New York's latitude east, and it runs straight into Madrid.",
+    "It keeps going. Paris is north of Seattle.",
+    "London is north of Calgary.",
+    "Venice and Montreal share the same line.",
+    {
+      "text": "Even Canada's southernmost point, a tiny island in Lake Erie, is south of Rome.",
+      "pause": 0.45
+    },
+    "Yet in January, New York averages about [1|one] degree Celsius.",
+    {
+      "text": "Rome, almost [8|eight].",
+      "pause": 0.45
+    },
+    "Most people credit the Gulf Stream.",
+    "But a [2002|two thousand two] study found the bigger reason is the wind.",
+    "Westerlies blow across an ocean that stored up summer heat, and carry it into Europe.",
+    {
+      "text": "New York's winter winds come from a frozen continent.",
+      "pause": 0.45
+    },
+    "So Rome isn't warm because it's south.",
+    "It's warm because it's downwind."
+  ],
+  "sources": [
+    "https://www.priceoftravel.com/world-cities-by-latitude",
+    "https://en.wikipedia.org/wiki/Middle_Island_(Lake_Erie)",
+    "https://en.wikipedia.org/wiki/Extreme_points_of_Canada",
+    "https://www.weather.gov/media/okx/Climate/CentralPark/nycnormals.pdf",
+    "https://en.wikipedia.org/wiki/Climate_of_Rome",
+    "https://rmets.onlinelibrary.wiley.com/doi/10.1256/qj.01.128",
+    "https://www.americanscientist.org/article/the-source-of-europes-mild-climate"
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "slug": "compass-lie",
+  "title": "The Compass Lie",
+  "voice": "am_michael",
+  "speed": 1.0,
+  "tail": 4.6,
+  "musicSeed": 1,
+  "musicKey": 59,
+  "hot": [
+    "Alaska",
+    "east",
+    "west",
+    "180°",
+    "Eastern",
+    "40",
+    "Maine"
+  ],
+  "details": [
+    {
+      "file": "d_aleut.jpg",
+      "bbox": [
+        166,
+        48,
+        180,
+        58
+      ]
+    },
+    {
+      "file": "d_panama.jpg",
+      "bbox": [
+        -81.5,
+        7.5,
+        -78,
+        10.5
+      ]
+    }
+  ],
+  "script": [
+    {
+      "text": "The easternmost point of the United States is in Alaska.",
+      "pause": 0.4
+    },
+    {
+      "text": "Not Maine. Alaska.",
+      "pause": 0.3
+    },
+    "Follow the Aleutian Islands west, and they cross the [180°|one hundred eightieth] meridian.",
+    "On the far side of that line, west becomes east.",
+    "Semisopochnoi Island, in Alaska, sits in the Eastern Hemisphere.",
+    "That makes Alaska the northernmost state, the westernmost, and the easternmost.",
+    {
+      "text": "All at once.",
+      "pause": 0.4
+    },
+    "Your mental map lies in other places too.",
+    "Reno, Nevada, is west of Los Angeles.",
+    "Santiago, Chile, is east of New York.",
+    "And sail the Panama Canal from the Atlantic to the Pacific.",
+    {
+      "text": "You finish about [40|forty] kilometers east of where you started.",
+      "pause": 0.4
+    },
+    "Longitude doesn't care about coastlines.",
+    "So next time someone says Maine is the easternmost state, point them west. Very far west."
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Semisopochnoi_Island",
+    "https://en.wikipedia.org/wiki/Amatignak_Island",
+    "https://en.wikipedia.org/wiki/Point_Barrow",
+    "https://en.wikipedia.org/wiki/List_of_extreme_points_of_the_United_States",
+    "https://www.worldatlas.com/geography/the-easternmost-point-in-north-america-is-actually-west-of-alaska.html",
+    "https://www.reference.com/history-geography/reno-los-angeles-further-west-37dcbdbcc6dea54",
+    "https://en.wikipedia.org/wiki/Panama_Canal",
+    "https://www.britannica.com/topic/Panama-Canal",
+    "https://latitude.to/map/cl/chile/cities/santiago"
+  ]
+}

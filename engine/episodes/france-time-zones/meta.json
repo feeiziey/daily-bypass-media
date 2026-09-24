@@ -1,0 +1,62 @@
+{
+  "slug": "france-time-zones",
+  "title": "Twelve Clocks",
+  "voice": "am_michael",
+  "speed": 1.0,
+  "tail": 4.6,
+  "musicSeed": 0,
+  "musicKey": 53,
+  "hot": [
+    "France",
+    "11",
+    "12",
+    "22",
+    "13th",
+    "Brazil",
+    "Netherlands",
+    "always"
+  ],
+  "textures": {
+    "night": "tex/night_8k.jpg"
+  },
+  "script": [
+    {
+      "text": "The country with the most time zones isn't Russia. It's France.",
+      "pause": 0.5
+    },
+    "Russia has [11|eleven]. The [U.S.|U S], counting tiny islands, also has [11|eleven].",
+    {
+      "text": "France has [12|twelve].",
+      "pause": 0.4
+    },
+    "Because France doesn't stop at Europe.",
+    "There's French Guiana, in South America.",
+    "Guadeloupe and Martinique, in the Caribbean.",
+    "[Réunion|Reunion] and Mayotte, off Africa.",
+    "New Caledonia, French Polynesia, and Wallis and Futuna, out in the Pacific.",
+    "Its clocks run from [UTC−10|U T C minus ten], in Tahiti, to [UTC+12|U T C plus twelve], in Wallis.",
+    {
+      "text": "That's [22|twenty-two] hours apart. Same country.",
+      "pause": 0.5
+    },
+    "It gets stranger. France's longest land border isn't with Spain.",
+    {
+      "text": "It's with Brazil, through French Guiana.",
+      "pause": 0.7
+    },
+    "And on the island of Saint Martin, France borders the Netherlands.",
+    "Count [Adélie|Adelie] Land, in Antarctica, and France claims a [13th|thirteenth] zone.",
+    "Spread that wide, somewhere in France, the sun is always up."
+  ],
+  "sources": [
+    "https://www.guinnessworldrecords.com/world-records/584626-country-with-the-most-time-zones",
+    "https://www.timeanddate.com/time/country-with-the-most-time-zones.html",
+    "https://en.wikipedia.org/wiki/Time_in_France",
+    "https://en.wikipedia.org/wiki/List_of_time_zones_by_country",
+    "https://en.wikipedia.org/wiki/Borders_of_France",
+    "https://www.cia.gov/the-world-factbook/countries/france/",
+    "https://en.wikipedia.org/wiki/Saint_Martin%E2%80%93Sint_Maarten_border",
+    "Sun-always-up: own calculation, minimum solar altitude over French territories across 2026 = 22 deg"
+  ],
+  "hires": true
+}
